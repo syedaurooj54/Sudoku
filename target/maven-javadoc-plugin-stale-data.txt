@@ -1,0 +1,50 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/Ashfia/.m2/repository/org/netbeans/external/AbsoluteLayout/RELEASE124/AbsoluteLayout-RELEASE124.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'16'
+-sourcepath
+'C:/Users/Ashfia/Documents/NetBeansProjects/LabSession1/Sudoku/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Ashfia/Documents/NetBeansProjects/LabSession1/Sudoku/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Sudoku 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Sudoku 1.0-SNAPSHOT API'
+Sudoku
+'C:/Users/Ashfia/Documents/NetBeansProjects/LabSession1/Sudoku/src/main/java/Sudoku/InputsUI.java'
+'C:/Users/Ashfia/Documents/NetBeansProjects/LabSession1/Sudoku/src/main/java/Sudoku/SudokuGenerator.java'
+'C:/Users/Ashfia/Documents/NetBeansProjects/LabSession1/Sudoku/src/main/java/Sudoku/SudokuUI.java'
+C:\Users\Ashfia\.m2\repository\org\netbeans\external\AbsoluteLayout\RELEASE124\AbsoluteLayout-RELEASE124.jar = 1638120981183
+C:\Users\Ashfia\Documents\NetBeansProjects\LabSession1\Sudoku\src\main\java = 1638071169355
+C:\Users\Ashfia\Documents\NetBeansProjects\LabSession1\Sudoku\target\site\apidocs\allclasses-index.html = 1638910030106
+C:\Users\Ashfia\Documents\NetBeansProjects\LabSession1\Sudoku\target\site\apidocs\allpackages-index.html = 1638910030109
+C:\Users\Ashfia\Documents\NetBeansProjects\LabSession1\Sudoku\target\site\apidocs\element-list = 1638910029958
+C:\Users\Ashfia\Documents\NetBeansProjects\LabSession1\Sudoku\target\site\apidocs\help-doc.html = 1638910030145
+C:\Users\Ashfia\Documents\NetBeansProjects\LabSession1\Sudoku\target\site\apidocs\index-all.html = 1638910030134
+C:\Users\Ashfia\Documents\NetBeansProjects\LabSession1\Sudoku\target\site\apidocs\index.html = 1638910030137
+C:\Users\Ashfia\Documents\NetBeansProjects\LabSession1\Sudoku\target\site\apidocs\jquery-ui.overrides.css = 1638910030213
+C:\Users\Ashfia\Documents\NetBeansProjects\LabSession1\Sudoku\target\site\apidocs\member-search-index.js = 1638910030116
+C:\Users\Ashfia\Documents\NetBeansProjects\LabSession1\Sudoku\target\site\apidocs\module-search-index.js = 1638910030111
+C:\Users\Ashfia\Documents\NetBeansProjects\LabSession1\Sudoku\target\site\apidocs\overview-tree.html = 1638910030070
+C:\Users\Ashfia\Documents\NetBeansProjects\LabSession1\Sudoku\target\site\apidocs\package-search-index.js = 1638910030113
+C:\Users\Ashfia\Documents\NetBeansProjects\LabSession1\Sudoku\target\site\apidocs\script.js = 1638910030153
+C:\Users\Ashfia\Documents\NetBeansProjects\LabSession1\Sudoku\target\site\apidocs\search.js = 1638910030167
+C:\Users\Ashfia\Documents\NetBeansProjects\LabSession1\Sudoku\target\site\apidocs\serialized-form.html = 1638910030035
+C:\Users\Ashfia\Documents\NetBeansProjects\LabSession1\Sudoku\target\site\apidocs\stylesheet.css = 1638910030150
+C:\Users\Ashfia\Documents\NetBeansProjects\LabSession1\Sudoku\target\site\apidocs\tag-search-index.js = 1638910030117
+C:\Users\Ashfia\Documents\NetBeansProjects\LabSession1\Sudoku\target\site\apidocs\type-search-index.js = 1638910030115
