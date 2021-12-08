@@ -21,7 +21,7 @@ import java.awt.Color;
  * This class creates the GUI, Since only one screen is required for displaying the sudoku grid so only one JFrame is necessary
  * It contains a method to create the sudoku grid with buttons
  * And some methods to give functionality to different buttons/menus like New Grid button, Done button, etc.
- */
+ */ 
 public class SudokuUI extends javax.swing.JFrame{
     private JButton[][] buttons;
     private ActionListener[][] actionListener;
