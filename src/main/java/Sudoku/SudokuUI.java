@@ -1,14 +1,11 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package Sudoku;
 
 /**
  *
  * @author Ashfia
  */
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
@@ -20,6 +17,11 @@ import javax.swing.UIManager;
 import javax.swing.JPanel;
 import java.awt.Color;
 
+/* 
+ * This class creates the GUI, Since only one screen is required for displaying the sudoku grid so only one JFrame is necessary
+ * It contains a method to create the sudoku grid with buttons
+ * And some methods to give functionality to different buttons/menus like New Grid button, Done button, etc.
+ */
 public class SudokuUI extends javax.swing.JFrame{
     private JButton[][] buttons;
     private ActionListener[][] actionListener;

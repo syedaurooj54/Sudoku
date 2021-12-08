@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package Sudoku;
 
 /**
@@ -12,6 +8,11 @@ package Sudoku;
 
 import java.util.Arrays;
 // Some methods are reference from GeeksForGeeks(Contributed by Ankur Trisal) Sudoku
+/*
+ * This class is the main class which generates a multidimensional array that contains numbers of sudoku grid (according to the selected level)
+ * It contains methods to replaces some of the digits with zeros to indicate empty cells for the user to input in
+ * And also to check the grid with user's inputs to validate if it is right or wrong
+ */
 public class SudokuGenerator
 {
     public int[][] gridArray;

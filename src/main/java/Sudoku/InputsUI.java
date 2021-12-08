@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package Sudoku;
 
 /**
@@ -12,6 +8,11 @@ package Sudoku;
 import javax.swing.JButton;
 import javax.swing.JPanel;
 
+/* 
+ * This class creates the JPanel for the inputs window
+ * It contains a constructor to remove buttons according to the selected level
+ * And some methods to give functionality to the input buttons
+ */
 public class InputsUI extends javax.swing.JPanel {
     private SudokuUI sudokuUI;
     private JPanel block;
